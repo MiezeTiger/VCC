@@ -1,27 +1,26 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"ToN Classic or Special Sign",
+    "id":"com.vrchat.ton-sign",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"mieze.wildrose@gmail.com",
+        "name":"Mieze",
+        "url":"https://github.com/MiezeTiger/ToN-Classic-or-Special"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Sign that works in Terrors of Nowhere to display what the next round type will be",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/MiezeTiger/ToN-Classic-or-Special",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "MiezeTiger/ToN-Classic-or-Special"
     ],
     "packages":[
         {
             "name":"com.vrchat.udonsharp",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/MiezeTiger/ToN-Classic-or-Special/releases/download/v0.4/Mieze.ToN.Sign.v0.4.unitypackage",
             ]
         }
     ]
